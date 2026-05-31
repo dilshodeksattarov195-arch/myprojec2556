@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusteruave",
+        "uuid": 3090204,
+        "checksum": "tyalwi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
